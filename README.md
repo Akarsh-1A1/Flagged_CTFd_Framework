@@ -86,7 +86,7 @@ Configure the backend at `backend/app/config.py`.
   Worked on FastAPI endpoints. Implemented backend authentication flow. Fixed multiple backend issues and implemented multiple DB operations.
 - ![Akarsh Raj](https://github.com/Akarsh-1A1) - 240051003
 
-  Frontend layout, theme, pages design, Created Login, Register, Home, Scoreboard, teams, Admin panel, Notifications pages. Set  Authentication flow, some  backend part, Integration of Admin controls, Scoreboard, Challenges, Teams, Profile, Notifications etc to backend.
+  Frontend layout, theme, pages design, Created Login, Register, Home, Scoreboard, teams, Admin panel, Notifications pages. Set  Authentication flow, fixed and implemented some backend part ; Integration of Admin controls, Scoreboard, Challenges, Teams, Profile, Notifications, Email-Verification setup etc to backend.
 - ![Subhanshu Kumar](https://github.com/Subhansh-1-u) - 240021019
 
   Pages design user, team, forget password, settings, flag submission logic (fast api rate limitter and redis implementation), some backend endpoints like reset password and send reset password email. Integration of settings, team, user, forget password etc to backend
